@@ -1,2 +1,2 @@
-# Umbrella
-Power Full Anti Spam Bot For Telegram (Lua)
+# Trojan For Linux servers
+Developer: ArashRanger
